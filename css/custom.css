@@ -1,0 +1,4 @@
+/* your styles go here */
+.blur-me {
+  filter: blur(20px);
+}
